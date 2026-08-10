@@ -1,2 +1,7 @@
 print("Hello GitHub!")
 print("I am learning Python and AI!")
+
+
+
+
+print("This is my first Python script.")
